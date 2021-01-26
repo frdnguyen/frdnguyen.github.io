@@ -1,100 +1,39 @@
-# jekyll-rtd-theme
+# GEOL0021
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+Ces pages constituent les notes de cours pour GEOL0021 de l'Université de Liège.
 
-Just another documentation theme compatible with GitHub Pages
+La géophysique permet d'aider à résoudre des problèmes sociétaux 
+importants comme ceux liés à l'exploration des ressources, les 
+problématiques environnementales et les projets du génie civil. Les 
+campagnes et les données géophysiques sont sensibles aux variations des 
+propriétés physiques du sous-sol. Ces variations peuvent être utilisées 
+pour trouver des ressources, détecter et suivre une contamination ou 
+cartographier des couches géologiques. L'application d'une technique 
+géophysique pour aider à répondre à une question scientifique en 
+Sciences de la Terre ou en ingénierie nécessite l'identification de 
+propriétés physiques cibles diagnostic du problème et la réalisation de 
+campagnes géophysiques, de traitement et d'interprétations appropriées 
+des données récoltées. Une campagne géophysique peut être vue à travers 
+une procédure en sept étapes qui sert de guide pour résoudre chaque 
+problème. Dans le GPG, nous discutons des principes physiques pour 
+chaque méthode géophysique et nous parcourons des cas d'études ainsi que 
+des applications. L'accent est mis sur les problèmes environnementaux, 
+l'exploration des ressources et la géotechnique, mais les concepts 
+couvrent un large éventail d'applications. Le GPG est destiné à être une 
+ressource pour les ingénieurs et les géoscientifiques, y compris ceux 
+qui ne sont pas spécialistes de la géophysique. Le GPG ne présente pas 
+en détails l'ensemble des fondements mathématiques mais des liens avec 
+des analyses plus poussées sont fournis.
 
-## What it does?
+## Theme license
 
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
+The theme is available as open source under the terms of the MIT License.
 
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+## License
 
-## Quick start
+Seuf si noté explicitement, ce travail est sous la license Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/)
 
-```yml
-remote_theme: rundocs/jekyll-rtd-theme
-```
+## Sources
 
-You can [generate](https://github.com/rundocs/starter-slim/generate) with the same files and folders from [rundocs/starter-slim](https://github.com/rundocs/starter-slim/)
+Ces notes de cours ont été traduites en français et modifiées à partir du site https://gpg.geosci.xyz avec l'accord explicite du Professeur Doug Oldenburg que nous remercions vivement. Toutes références à ces notes doivent également faire référence à https://gpg.geosci.xyz
 
-## Usage
-
-Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
-
-## Features
-
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
-- Service worker (caches)
-- SEO (404, robots.txt, sitemap.xml)
-- Canonical Link (Open Graph, Twitter Card, Schema data)
-
-## Options
-
-| name          | default value        | description       |
-| ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
-| `description` | repo description     |                   |
-| `url`         | user domain or cname |                   |
-| `baseurl`     | repo name            |                   |
-| `lang`        | `en`                 |                   |
-| `direction`   | `auto`               | `ltr` or `rtl`    |
-| `highlighter` | `rouge`              | Cannot be changed |
-
-```yml
-# folders sort
-readme_index:
-  with_frontmatter: true
-
-meta:
-  key1: value1
-  key2: value2
-  .
-  .
-  .
-
-google:
-  gtag:
-  adsense:
-
-mathjax: # this will prased to json, default: {}
-
-mermaid:
-  custom:     # mermaid link
-  initialize: # this will prased to json, default: {}
-
-scss:   # also _includes/extra/styles.scss
-script: # also _includes/extra/script.js
-
-translate:
-  # shortcodes
-  danger:
-  note:
-  tip:
-  warning:
-  # 404
-  not_found:
-  # copyright
-  revision:
-  # search
-  searching:
-  search:
-  search_docs:
-  search_results:
-  search_results_found: # the "#" in this translate will replaced with results size!
-  search_results_not_found:
-
-plugins:
-  - jemoji
-  - jekyll-avatar
-  - jekyll-mentions
-```
-
-## The license
-
-The theme is available as open source under the terms of the MIT License
