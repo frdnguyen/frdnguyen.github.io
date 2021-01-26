@@ -25,6 +25,10 @@ qui ne sont pas spécialistes de la géophysique. Le GPG ne présente pas
 en détails l'ensemble des fondements mathématiques mais des liens avec 
 des analyses plus poussées sont fournis.
 
+## Contenu
+
+{% include list.liquid all=true %}
+
 ## Theme license
 
 The theme is available as open source under the terms of the MIT License.
