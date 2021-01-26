@@ -27,7 +27,7 @@ des analyses plus poussées sont fournis.
 
 ## Contenu
 
-{% include list.liquid all=true %}
+{% include list.liquid %}
 
 ## Theme license
 
