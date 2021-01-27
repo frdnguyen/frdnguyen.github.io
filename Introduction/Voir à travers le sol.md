@@ -25,6 +25,18 @@ Par rapport à ces différentes activités, les caractéristiques du sous-sol pr
 
 D'autres propriétés physiques utiles peuvent être cartographiées et que nous verrons à travers ce cours, notamment la chargeabilité ou la permitivité diélectrique.
 
+### Un besoin de mieux modéliser le sous-sol
+
+Les structures souterraines sont généralement interprétées soit en termes d'objets, de couches, d'éléments linéaires ou de distributions plus complexes. Ce type d'information, obtenu à distance et de manière non invasive par des méthodes géophysiques, est couramment utilisé dans l'ingénierie géotechnique et environnementale et pour l'exploration pour caractériser les structures géologiques, estimer les réserves de minerai ou encore détecter les panaches de contamination, etc. Qu'implique l'obtention de telles informations ? Tout d'abord, un travail de terrain est effectué (figure 1), ce qui implique de nombreuses mesures minutieuses le long des lignes de levé au sol ou depuis un avion. Traditionnellement, les interprétations de ces mesures sont souvent faites à partir de graphiques ou de cartes de données brutes ou traitées, ce qui permet d'obtenir des informations qualitatives ou grossièrement quantitatives sur les emplacements, les profondeurs et les types de matériaux sous terre.
+
+<img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+
+	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest de la Colombie-Britannique. 
+
+Cependant, face à la demande constante d'informations de plus en plus quantitatives, des techniques sophistiquées sont maintenant utilisées pour estimer numériquement la répartition des propriétés physiques de la terre. Ces procédures de modélisation donnent aux géoscientifiques un moyen plus rentable, plus fiable et plus précis d'extraire le plus d'informations possible des données de levés conventionnels. Elles permettent également de présenter les informations plutôt techniques de manière plus visuelle et plus significative aux gestionnaires, aux actionnaires, aux organismes de réglementation et aux autres groupes d'intérêt. 
+
+Après la lecture de cette section, il devrait devenir évident que l'application de la géophysique aux problèmes impliquant le sous-sol de la terre est un processus non trivial. Un cadre en sept étapes doit être utilisé pour aider à comprendre chaque aspect de ce processus. Ce cadre peut être consulté dans :doc:`../foundations_sevensteps`.
+
 ## Geophysics 101
 
 
