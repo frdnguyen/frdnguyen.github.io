@@ -11,7 +11,11 @@ Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médi
 <img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
 
 ## Introduction
-
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 ## Geophysics 101
 
 ## Un exemple concret : Westhoek
