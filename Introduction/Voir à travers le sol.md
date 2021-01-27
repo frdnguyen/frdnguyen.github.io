@@ -8,6 +8,6 @@ Dans une étude géophysique, une forme d'énergie est transmise dans le sol ou 
 
 Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médicale, ici illustrée à l'aide du patient Homer, et une imagerie géophyisque à l'aide d'ondes sismiques, à l'échelle de la Terre.
 
-<img src="../assets/images/intro_homer.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:30%"> 
+<img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:30%"> 
 
 
