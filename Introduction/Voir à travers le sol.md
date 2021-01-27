@@ -41,14 +41,14 @@ Cependant, pour répondre à une demande d'informations de plus en plus quantita
 
 ## Geophysics 101
 
-Les études géophysiques sont effectuées lorsque l'on souhaite obtenir des informations sur le sous-sol de la terre, mais que l'échantillonnage direct par des techniques coûteuses et invasives telles que le forage ou le creusement de tranchées est insuffisant, peu pratique ou malavisé. Une étude peut être aussi vaste que la Terre entière, aussi petite que les quelques premiers mètres de la surface du sol, ou n'importe où entre les deux. 
+Les études géophysiques sont effectuées lorsque l'on souhaite obtenir des informations sur le sous-sol de la terre, mais que l'échantillonnage direct par des techniques coûteuses et invasives telles que le forage ou le creusement de tranchées est insuffisant, peu pratique ou non recommandé. Une étude peut être aussi vaste que la Terre entière, aussi petite que les quelques premiers centimètres de la surface du sol, ou n'importe où entre les deux. 
 
 ### Mesurer les propriétés physiques
 
 Lors d'une étude géophysique, de l'énergie est injectée dans la terre et les réponses sont enregistrées à la surface, dans l'air ou dans des trous de forage. Les données qui en résultent révèlent des informations sur la terre, car le comportement de l'énergie dans le sol est contrôlé par la répartition des propriétés physiques de la terre. Par exemple, une des propriétés physiques de base est la susceptibilité magnétique, qui décrit la capacité d'une roche à s'aimanter. Cette propriété physique fournit des informations sur le type et les structures des roches car la susceptibilité magnétique de la roche est directement liée au type de minéral, aux processus d'altération chimique. Une deuxième propriété physique importante est la conductivité électrique, qui quantifie la capacité d'un matériau à transporter un courant électrique. La figure 2 illustre une façon d'effectuer un levé géophysique pour fournir des informations sur la distribution de la conductivité électrique sous la surface.
 
- .. brut: : html
-    :fichier : ../figure2.html
+<img src="../assets/images/introduction/figure2.html" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
+ 
 
 De toute évidence, l'application de la géophysique aux problèmes liés au sous-sol terrestre est un processus non trivial et doit être menée selon la procédure en sept étapes.
 
