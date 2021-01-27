@@ -9,6 +9,8 @@ Dans une étude géophysique, une forme d'énergie est transmise dans le sol ou 
 Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médicale, ici illustrée à l'aide du patient Homer, et une imagerie géophyisque à l'aide d'ondes sismiques, à l'échelle de la Terre. Outre les différences flagrantes en termes de contenu, on peut noter les différences en termes de résolution, en termes de rapport signal sur bruit, en termes de connaissances a priori du milieu pour interpréter les images.
 
 <img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+	
+	Imagerie médicale d'Homer et tomographie sismique à l'échelle du globe.
 
 ## Introduction
 ### Sur l'importance d'étudier le sous-sol
@@ -29,9 +31,11 @@ D'autres propriétés physiques utiles peuvent être cartographiées et que nous
 
 Les structures souterraines sont généralement interprétées soit en termes d'objets, de couches, d'éléments linéaires ou de distributions plus complexes. Ce type d'information, obtenu à distance et de manière non invasive par des méthodes géophysiques, est couramment utilisé dans l'ingénierie géotechnique et environnementale et pour l'exploration pour caractériser les structures géologiques, estimer les réserves de minerai ou encore détecter les panaches de contamination, etc. Qu'implique l'obtention de telles informations ? Tout d'abord, un travail de terrain est effectué (figure 1), ce qui implique de nombreuses mesures minutieuses le long des lignes de levé au sol ou depuis un avion. Traditionnellement, les interprétations de ces mesures sont souvent faites à partir de graphiques ou de cartes de données brutes ou traitées, ce qui permet d'obtenir des informations qualitatives ou grossièrement quantitatives sur les emplacements, les profondeurs et les types de matériaux sous terre.
 
-<img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+<img src="/_images/magvlf-isk.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
 
-	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest de la Colombie-Britannique. 
+	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener 
+	une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest 
+	de la Colombie-Britannique. 
 
 Cependant, face à la demande constante d'informations de plus en plus quantitatives, des techniques sophistiquées sont maintenant utilisées pour estimer numériquement la répartition des propriétés physiques de la terre. Ces procédures de modélisation donnent aux géoscientifiques un moyen plus rentable, plus fiable et plus précis d'extraire le plus d'informations possible des données de levés conventionnels. Elles permettent également de présenter les informations plutôt techniques de manière plus visuelle et plus significative aux gestionnaires, aux actionnaires, aux organismes de réglementation et aux autres groupes d'intérêt. 
 
