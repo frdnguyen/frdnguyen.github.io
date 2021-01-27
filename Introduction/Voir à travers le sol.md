@@ -31,11 +31,9 @@ D'autres propriétés physiques utiles peuvent être cartographiées et que nous
 
 Les structures souterraines sont généralement interprétées soit en termes d'objets, de couches, d'éléments linéaires ou de distributions plus complexes. Ce type d'information, obtenu à distance et de manière non invasive par des méthodes géophysiques, est couramment utilisé dans l'ingénierie géotechnique et environnementale et pour l'exploration pour caractériser les structures géologiques, estimer les réserves de minerai ou encore détecter les panaches de contamination, etc. Qu'implique l'obtention de telles informations ? Tout d'abord, un travail de terrain est effectué, ce qui implique de nombreuses mesures minutieuses le long des lignes de levé au sol ou depuis un avion. Les interprétations de ces mesures peuvent être faites à partir de graphiques ou de cartes de données brutes ou traitées, ce qui permet d'obtenir des informations qualitatives ou grossièrement quantitatives sur les emplacements, les profondeurs et les types de matériaux sous terre.
 
-<img src="../assets/images/introduction/magvlf-isk.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
+<img src="../assets/images/introduction/logicgeophysics.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
 
-	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener 
-	une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest 
-	de la Colombie-Britannique. 
+	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour étudier un glacier (www.logicgeophysics.com). 
 
 Cependant, pour répondre à une demande d'informations de plus en plus quantitatives, des techniques sophistiquées sont maintenant utilisées pour estimer numériquement la répartition spatiale voire spatio-temporelle des propriétés physiques de la Terre. Ces procédures de modélisation donnent aux ingénieurs et aux scientifiques un moyen plus efficace, plus fiable et plus précis d'extraire le plus d'informations possible des données de campagnes géophysiques. Elles permettent également de présenter les informations plutôt techniques de manière plus visuelle et plus pertinente aux gestionnaires, aux décideurs, aux organismes de réglementation et autres groupes d'intérêt. 
 
