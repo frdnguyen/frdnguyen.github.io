@@ -11,12 +11,18 @@ Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médi
 <img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
 
 ## Introduction
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+### Sur l'importance d'étudier le sous-sol
+La surface de la terre a servi de support à la plupart des activités humaines tout au long de l'histoire de la civilisation, et ces activités ont été profondément affectées par les caractéristiques largement invisibles du sous-sol environnant. Le développement humain a fortement dépendu des ressources obtenues à la fois près de la surface (comme pour les matériaux de construction) et à des centaines ou des milliers de mètres de profondeur (comme pour les minerais métallifères et les produits pétroliers). Nous utilisons l'eau des aquifères souterrains et celle-ci est en intéraction permanente avec les différents composants de notre environnement (océan, rivière, lac), nous déposons une grande partie de nos déchets dans le sous-sol et construisons des structures qui doivent être en interaction avec le sous-sol en toute sécurité. 
+
 ## Geophysics 101
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## Un exemple concret : Westhoek
 
