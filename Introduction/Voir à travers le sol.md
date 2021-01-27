@@ -41,6 +41,41 @@ Cependant, pour répondre à une demande d'informations de plus en plus quantita
 
 ## Geophysics 101
 
+Les études géophysiques sont effectuées lorsque l'on souhaite obtenir des informations sur le sous-sol de la terre, mais que l'échantillonnage direct par des techniques coûteuses et invasives telles que le forage ou le creusement de tranchées est insuffisant, peu pratique ou malavisé. Une étude peut être aussi vaste que la Terre entière, aussi petite que les quelques premiers mètres de la surface du sol, ou n'importe où entre les deux. 
+
+### Mesurer les propriétés physiques
+
+Lors d'une étude géophysique, de l'énergie est injectée dans la terre et les réponses sont enregistrées à la surface, dans l'air ou dans des trous de forage. Les données qui en résultent révèlent des informations sur la terre, car le comportement de l'énergie dans le sol est contrôlé par la répartition des propriétés physiques de la terre. Par exemple, une des propriétés physiques de base est la susceptibilité magnétique, qui décrit la capacité d'une roche à s'aimanter. Cette propriété physique fournit des informations sur le type et les structures des roches car la susceptibilité magnétique de la roche est directement liée au type de minéral, aux processus d'altération chimique. Une deuxième propriété physique importante est la conductivité électrique, qui quantifie la capacité d'un matériau à transporter un courant électrique. La figure 2 illustre une façon d'effectuer un levé géophysique pour fournir des informations sur la distribution de la conductivité électrique sous la surface.
+
+ .. brut: : html
+    :fichier : ../figure2.html
+
+De toute évidence, l'application de la géophysique aux problèmes liés au sous-sol terrestre est un processus non trivial et doit être menée selon la procédure en sept étapes.
+
+### Interprétation traditionnelle
+
+
+Traditionnellement, les informations utiles étaient extraites des résultats de terrain géophysique en examinant des cartes ou des profils linéaires de données d'enquête brutes ou filtrées. Ces images sont utiles pour estimer les emplacements et les quantités de matériaux enfouis, et pour aider à choisir des emplacements pour des techniques plus invasives (et coûteuses) telles que le forage. Par exemple, les cartes à grande échelle des données magnétiques ou gravimétriques montrent souvent la structure géologique, ou identifient une région anormale qui pourrait être associée à une cible souhaitée. À titre d'exemple, la figure 3 montre les données magnétiques acquises dans la région de Bathurst, au Nouveau-Brunswick. Les principales caractéristiques observées sont liées à la structure géologique. 
+
+<img src="../assets/images/introduction/graphic5.gif" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
+
+
+	Figure 3. Antiforme Tetatouche - Champ magnétique total, tiré de "Airborne Geophysical Survey of the Bathurst Mining Camp", site web de la Commission géologique du Canada.
+
+Historiquement, dans l'exploration minière, l'identification d'une région anormale était souvent le point final de l'analyse, et l'image était utilisée pour planifier l'emplacement d'un trou de forage. Malheureusement, le taux de réussite était généralement faible. Au mieux, les cartes de données fournissent quelques informations sur l'étendue latérale d'un corps, mais peu sur ce qui se passe en profondeur. Une analyse quantitative, en particulier l'inversion, est nécessaire pour obtenir des informations en 3D.
+
+### Inversion
+
+
+ .. figure: : ../images/inv-cartoon.jpg
+	:align : center
+	échelle : 90
+
+Le but du problème inverse est de trouver un modèle mathématique de la terre qui a produit les observations sur le terrain. C'est-à-dire "quelle est la distribution des propriétés physiques du sous-sol à l'origine des données observées à la surface ?" Les premières solutions d'inversion consistaient à caractériser la terre par quelques prismes ou couches et à trouver les propriétés géométriques et physiques de ces modèles simplifiés de la terre. 
+
+En raison de l'extrême complexité de la terre, les modèles utiles doivent souvent avoir de nombreux paramètres, généralement plus que le nombre de données. Cela signifie que le problème de trouver un modèle (c'est-à-dire d'estimer les valeurs de chaque paramètre) est un problème dans lequel il y a plus d'inconnues que de données. De tels problèmes n'ont pas de solutions uniques, et cette non-unicité est exacerbée lorsque les données sont bruyantes ou inexactes. Les méthodes formelles d'inversion permettent de résoudre ces problèmes en utilisant des techniques mathématiques bien définies. Une annexe explique l'inversion de manière un peu plus détaillée. 
+
+Certains avantages de l'application d'une inversion rigoureuse peuvent être constatés en comparant les cartes traditionnelles et les pseudo-coupes des données brutes aux informations des modèles 3D et 2D obtenus par inversion.  macos/deepLFree.translatedWithDeepL.text
 
 ## Un exemple concret : Westhoek
 
