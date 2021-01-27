@@ -34,7 +34,8 @@ Les structures souterraines sont généralement interprétées soit en termes d'
 <img src="../assets/images/magvlf-isk.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
 
 	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener 
-	une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest de la Colombie-Britannique. 
+	une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest 
+	de la Colombie-Britannique. 
 
 Cependant, face à la demande constante d'informations de plus en plus quantitatives, des techniques sophistiquées sont maintenant utilisées pour estimer numériquement la répartition des propriétés physiques de la terre. Ces procédures de modélisation donnent aux géoscientifiques un moyen plus rentable, plus fiable et plus précis d'extraire le plus d'informations possible des données de levés conventionnels. Elles permettent également de présenter les informations plutôt techniques de manière plus visuelle et plus significative aux gestionnaires, aux actionnaires, aux organismes de réglementation et aux autres groupes d'intérêt. 
 
