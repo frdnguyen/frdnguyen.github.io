@@ -9,6 +9,7 @@ Dans une étude géophysique, une forme d'énergie est transmise dans le sol ou 
 Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médicale, ici illustrée à l'aide du patient Homer, et une imagerie géophyisque à l'aide d'ondes sismiques, à l'échelle de la Terre. Outre les différences flagrantes en termes de contenu, on peut noter les différences en termes de résolution, en termes de rapport signal sur bruit, en termes de connaissances a priori du milieu pour interpréter les images.
 
 <img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:60%"> 
+	Imagerie médicale d'Homer et tomographie sismique à l'échelle du globe.
 
 ## Introduction
 ### Sur l'importance d'étudier le sous-sol
