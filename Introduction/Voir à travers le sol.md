@@ -10,4 +10,12 @@ Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médi
 
 <img src="../assets/images/intro_analogy.png" style="display:block;float:none;margin-left:auto;margin-right:auto;width:30%"> 
 
+## Introduction
 
+## Geophysics 101
+
+## Un exemple concret : Westhoek
+
+## Un exemple analytique : la sismique réfraction pour la géotechnique
+
+## Conclusions
