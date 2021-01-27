@@ -8,3 +8,4 @@ Dans une étude géophysique, une forme d'énergie est transmise dans le sol ou 
 
 ![Alt](_images/intro_homer.png "Homer vu à travers une imagerie médicale. Image reproduite sur de nombreux sites.")
 
+<img src="_images/intro_homer.PNG" class="img-responsive" alt=""> </div>
