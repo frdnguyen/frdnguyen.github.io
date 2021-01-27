@@ -31,7 +31,7 @@ D'autres propriétés physiques utiles peuvent être cartographiées et que nous
 
 Les structures souterraines sont généralement interprétées soit en termes d'objets, de couches, d'éléments linéaires ou de distributions plus complexes. Ce type d'information, obtenu à distance et de manière non invasive par des méthodes géophysiques, est couramment utilisé dans l'ingénierie géotechnique et environnementale et pour l'exploration pour caractériser les structures géologiques, estimer les réserves de minerai ou encore détecter les panaches de contamination, etc. Qu'implique l'obtention de telles informations ? Tout d'abord, un travail de terrain est effectué (figure 1), ce qui implique de nombreuses mesures minutieuses le long des lignes de levé au sol ou depuis un avion. Traditionnellement, les interprétations de ces mesures sont souvent faites à partir de graphiques ou de cartes de données brutes ou traitées, ce qui permet d'obtenir des informations qualitatives ou grossièrement quantitatives sur les emplacements, les profondeurs et les types de matériaux sous terre.
 
-<img src="/_images/magvlf-isk.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
+<img src="/assets/images//magvlf-isk.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%"> 
 
 	Une équipe de terrain initialise l'équipement d'acquisition géophysique utilisé pour mener 
 	une étude d'exploration minière sur un site près de la rivière Iskut, dans le centre-ouest 
