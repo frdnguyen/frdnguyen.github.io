@@ -16,33 +16,16 @@ La surface de la terre a servi de support à la plupart des activités humaines 
 ### Propriétés physiques et roches
 Par rapport à ces différentes activités, les caractéristiques du sous-sol présentant un intérêt particulier comprennent la position, la répartition et la structure des différents types de roches, la distribution de la taille des grains, la résistance mécanique de la roche, la porosité ou encore la perméabilité des matériaux rencontrés. La complexité inhérente à la Terre peut rendre difficile, voire impossible, de déduire ces caractéristiques à partir d'une observation directe. Par conséquent, elles doivent souvent être déduites à partir de propriétés physiques plus "fondamentales" telles que la densité, la conductivité électrique, l'impédance acoustique et autres. Ces propriétés fondamentales peuvent être mesurées par des études géophysiques qui enregistrent la réponse de la Terre à divers types de signaux naturels ou artificiels. Le tableau suivant énumère quelques propriétés physiques et des matériaux et/ou structures géologiques auxquels elles sont souvent associées, ainsi que les méthodes géophysiques qui peuvent cartographier dans l'espace les variations de ces propriétés physiques. 
 
-|Propriété physique  | Second Header |Second Header |
+|Propriété physique  | Utile pour | Méthodes géophysiques associées |
 | ------------- | ------------- |------------- |
-| Résistivité électrique | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
+| Résistivité électrique | Contenu en eau  | Tomographie de résistivité électrique  |
+| Susceptibilité magnétique  | Minerais de fer  | Prospection magnétique  |
+| Masse volumique  | Cavité  | Gravimétrie  |
+| Module d'élasticité volumique  | Géotechnique  | Sismique réfraction  |
 
-D'autres propriétés physiques peuvent être utilement cartographiées, notamment la chargeabilité, la radioactivité naturelle, la permitivité diélectrique et la porosité.
+D'autres propriétés physiques utiles peuvent être cartographiées et que nous verrons à travers ce cours, notamment la chargeabilité ou la permitivité diélectrique.
 
 ## Geophysics 101
-
-$$
-\begin{aligned}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{aligned}
-$$
 
 
 ## Un exemple concret : Westhoek
