@@ -47,8 +47,7 @@ Les études géophysiques sont effectuées lorsque l'on souhaite obtenir des inf
 
 Lors d'une étude géophysique, de l'énergie, sous forme mécanique ou électrique par exemple, est injectée dans la terre et les réponses sont enregistrées à la surface, dans l'air ou dans des forages. Les données qui en résultent révèlent des informations sur la terre, car le comportement de l'énergie dans le sol est contrôlé par la répartition spatiale des propriétés physiques de la terre. Par exemple, une des propriétés physiques de base est la susceptibilité magnétique, qui décrit la capacité d'une roche à s'aimanter. Cette propriété physique fournit des informations sur le type et les structures des roches car la susceptibilité magnétique de la roche est directement liée au type de minéral, aux processus d'altération chimique. Une deuxième propriété physique importante est la conductivité électrique, qui quantifie la capacité d'un matériau à transporter un courant électrique. La figure 2 illustre une façon d'effectuer un levé géophysique pour fournir des informations sur la distribution de la conductivité électrique sous la surface.
 
-<img src="../assets/images/introduction/figure2.html" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
- 
+ {% include figure2.html %} 
 
 De toute évidence, l'application de la géophysique aux problèmes liés au sous-sol terrestre est un processus non trivial et doit être menée selon la procédure en sept étapes.
 
