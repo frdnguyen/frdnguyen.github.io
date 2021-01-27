@@ -33,7 +33,8 @@ Les structures souterraines sont généralement interprétées soit en termes d'
 
 <img src="../assets/images/introduction/geomatching.webp" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
 
-	Un drone de terrain portant l'équipement d'acquisition géophysique (GPR) pour voir sous la neige ou la glace (www.geo-matching.com). 
+	Un drone de terrain portant l'équipement d'acquisition géophysique (GPR) 
+	pour voir sous la neige ou la glace (www.geo-matching.com). 
 
 Cependant, pour répondre à une demande d'informations de plus en plus quantitatives, des techniques sophistiquées sont maintenant utilisées pour estimer numériquement la répartition spatiale voire spatio-temporelle des propriétés physiques de la Terre. Ces procédures de modélisation donnent aux ingénieurs et aux scientifiques un moyen plus efficace, plus fiable et plus précis d'extraire le plus d'informations possible des données de campagnes géophysiques. Elles permettent également de présenter les informations plutôt techniques de manière plus visuelle et plus pertinente aux gestionnaires, aux décideurs, aux organismes de réglementation et autres groupes d'intérêt. 
 
