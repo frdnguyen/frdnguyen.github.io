@@ -14,14 +14,14 @@ Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médi
 ### Sur l'importance d'étudier le sous-sol
 La surface de la terre a servi de support à la plupart des activités humaines tout au long de l'histoire de la civilisation, et ces activités ont été profondément affectées par les caractéristiques largement invisibles du sous-sol environnant. Le développement humain a fortement dépendu des ressources obtenues à la fois près de la surface (comme pour les matériaux de construction) et à des centaines ou des milliers de mètres de profondeur (comme pour les minerais métallifères et les produits pétroliers). Nous utilisons l'eau des aquifères souterrains et celle-ci est en intéraction permanente avec les différents composants de notre environnement (océan, rivière, lac), nous déposons une grande partie de nos déchets dans le sous-sol et construisons des structures qui doivent être en interaction avec le sous-sol en toute sécurité. 
 ### Propriétés physiques et roches
-Par rapport à ces différentes activités, les caractéristiques du sous-sol présentant un intérêt particulier comprennent la position, la répartition et la structure des différents types de roches, la distribution de la taille des grains, la résistance mécanique de la roche, la porosité ou encore la perméabilité des matériaux rencontrés. La complexité inhérente à la Terre peut rendre difficile, voire impossible, de déduire ces caractéristiques à partir d'une observation directe. Par conséquent, elles doivent souvent être déduites de la répartition de propriétés physiques plus fondamentales telles que la densité, la conductivité électrique, l'impédance acoustique et autres. Ces propriétés fondamentales peuvent être mesurées par des études géophysiques qui enregistrent la réponse de la Terre à divers types de signaux naturels ou artificiels. Le tableau suivant énumère les propriétés physiques qui sont le plus souvent liées aux matériaux et/ou structures géologiques, et les types de levés géophysiques qui peuvent cartographier les variations de ces propriétés physiques. 
+Par rapport à ces différentes activités, les caractéristiques du sous-sol présentant un intérêt particulier comprennent la position, la répartition et la structure des différents types de roches, la distribution de la taille des grains, la résistance mécanique de la roche, la porosité ou encore la perméabilité des matériaux rencontrés. La complexité inhérente à la Terre peut rendre difficile, voire impossible, de déduire ces caractéristiques à partir d'une observation directe. Par conséquent, elles doivent souvent être déduites à partir de propriétés physiques plus "fondamentales" telles que la densité, la conductivité électrique, l'impédance acoustique et autres. Ces propriétés fondamentales peuvent être mesurées par des études géophysiques qui enregistrent la réponse de la Terre à divers types de signaux naturels ou artificiels. Le tableau suivant énumère quelques propriétés physiques et des matériaux et/ou structures géologiques auxquels elles sont souvent associées, ainsi que les méthodes géophysiques qui peuvent cartographier dans l'espace les variations de ces propriétés physiques. 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|Propriété physique  | Second Header |Second Header |
+| ------------- | ------------- |------------- |
+| Résistivité électrique $\Omega m$ | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
 
 D'autres propriétés physiques peuvent être utilement cartographiées, notamment la chargeabilité, la radioactivité naturelle, la permitivité diélectrique et la porosité.
 
