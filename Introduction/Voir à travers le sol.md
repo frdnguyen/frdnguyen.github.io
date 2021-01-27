@@ -12,6 +12,18 @@ Dans l'exemple ci-dessous, nous pouvons voir une analogie entre l'imagerie médi
 
 ## Introduction
 
++-------------------------------------------+-------------------------------------------------+
+| Common physical properties                | Associated geophysical survey techniques        |
++===========================================+=================================================+
+| Electrical resistivity (or conductivity)  |  DC resistivity, all electromagnetic methods    |                    
++-------------------------------------------+-------------------------------------------------+
+| Magnetic susceptibility                   |  All magnetic survey methods                    |
++-------------------------------------------+-------------------------------------------------+
+| Density                                   |  Gravity, and seismic reflection or refraction  |
++-------------------------------------------+-------------------------------------------------+
+| Acoustic wave velocity                    |  Seismic reflection or refraction               |
++-------------------------------------------+-------------------------------------------------+
+
 ## Geophysics 101
 
 ## Un exemple concret : Westhoek
