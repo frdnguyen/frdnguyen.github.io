@@ -49,32 +49,32 @@ Lors d'une étude géophysique, de l'énergie, sous forme mécanique ou électri
  
 {% include /introduction/figure2.html %} 
 
-### Interprétation traditionnelle
+### Interprétation à partir des données brutes ou filtrées
 
 
-Traditionnellement, les informations utiles étaient extraites des résultats de terrain géophysique en examinant des cartes ou des profils linéaires de données d'enquête brutes ou filtrées. Ces images sont utiles pour estimer les emplacements et les quantités de matériaux enfouis, et pour aider à choisir des emplacements pour des techniques plus invasives (et coûteuses) telles que le forage. Par exemple, les cartes à grande échelle des données magnétiques ou gravimétriques montrent souvent la structure géologique, ou identifient une région anormale qui pourrait être associée à une cible souhaitée. À titre d'exemple, la figure 3 montre les données magnétiques acquises dans la région de Bathurst, au Nouveau-Brunswick. Les principales caractéristiques observées sont liées à la structure géologique. 
+Des informations utiles peuvent être extraites des résultats de terrain géophysique en examinant des cartes ou des profils linéaires de données brutes ou filtrées. Ces images sont utiles pour estimer les emplacements et les quantités de matériaux enfouis, et pour aider à choisir des emplacements pour des techniques plus invasives (et coûteuses) telles que le forage. Par exemple, les cartes à grande échelle des données magnétiques ou gravimétriques montrent souvent la structure géologique, ou identifient une région anormale qui pourrait être associée à une cible souhaitée. À titre d'exemple, la figure suivante montre les données magnétiques acquises dans la région de Bathurst, au Nouveau-Brunswick. Les principales caractéristiques observées sont liées à la structure géologique. 
 
 <img src="../assets/images/introduction/graphic5.gif" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
 
 
-	Figure 3. Antiforme Tetatouche - Champ magnétique total, tiré de "Airborne Geophysical Survey of the Bathurst Mining Camp", site web de la Commission géologique du Canada.
+	Figure 3. Antiforme Tetatouche - Champ magnétique total, tiré de "Airborne Geophysical Survey of the Bathurst Mining Camp", 
+	site web de la Commission géologique du Canada.
 
-Historiquement, dans l'exploration minière, l'identification d'une région anormale était souvent le point final de l'analyse, et l'image était utilisée pour planifier l'emplacement d'un trou de forage. Malheureusement, le taux de réussite était généralement faible. Au mieux, les cartes de données fournissent quelques informations sur l'étendue latérale d'un corps, mais peu sur ce qui se passe en profondeur. Une analyse quantitative, en particulier l'inversion, est nécessaire pour obtenir des informations en 3D.
+Historiquement, dans l'exploration minière, l'identification d'une région anormale était souvent le point final de l'analyse, et l'image était utilisée pour planifier l'emplacement d'un forage. Malheureusement, le taux de réussite était généralement faible. Au mieux, les cartes de données fournissent quelques informations sur l'étendue latérale d'un corps, mais peu sur ce qui se passe en profondeur. Une analyse quantitative, en particulier l'inversion, est nécessaire pour obtenir des informations en profondeur et en 3D.
 
 ### Inversion
 
+<img src="../assets/images/introduction/inv-cartoon.jpg" style="display:block;float:none;margin-left:auto;margin-right:auto;width:50%"> 
 
- .. figure: : ../images/inv-cartoon.jpg
-	:align : center
-	échelle : 90
+Le but d'un problème inverse est de trouver un modèle mathématique de la terre qui a produit les données mesurées sur le terrain. Le problème inverse répond dans notre cas à la question "quelle est la distribution des propriétés physiques du sous-sol à l'origine des données observées à la surface ?" Les premières solutions d'inversion consistaient à caractériser la terre par quelques prismes ou couches et à trouver les propriétés géométriques et physiques de ces modèles simplifiés de la terre. 
 
-Le but du problème inverse est de trouver un modèle mathématique de la terre qui a produit les observations sur le terrain. C'est-à-dire "quelle est la distribution des propriétés physiques du sous-sol à l'origine des données observées à la surface ?" Les premières solutions d'inversion consistaient à caractériser la terre par quelques prismes ou couches et à trouver les propriétés géométriques et physiques de ces modèles simplifiés de la terre. 
+En raison de l'extrême complexité de la terre, les modèles utiles doivent souvent avoir de nombreux paramètres, généralement plus que le nombre de données. Cela signifie que le problème de trouver un modèle (c'est-à-dire d'estimer les valeurs de chaque paramètre) est un problème dans lequel il y a plus d'inconnues que de données. De tels problèmes n'ont pas de solutions uniques, et cette non-unicité est exacerbée lorsque les données sont bruyantes ou inexactes. Les méthodes formelles d'inversion permettent de résoudre ces problèmes en utilisant des techniques mathématiques bien définies. 
 
-En raison de l'extrême complexité de la terre, les modèles utiles doivent souvent avoir de nombreux paramètres, généralement plus que le nombre de données. Cela signifie que le problème de trouver un modèle (c'est-à-dire d'estimer les valeurs de chaque paramètre) est un problème dans lequel il y a plus d'inconnues que de données. De tels problèmes n'ont pas de solutions uniques, et cette non-unicité est exacerbée lorsque les données sont bruyantes ou inexactes. Les méthodes formelles d'inversion permettent de résoudre ces problèmes en utilisant des techniques mathématiques bien définies. Une annexe explique l'inversion de manière un peu plus détaillée. 
-
-Certains avantages de l'application d'une inversion rigoureuse peuvent être constatés en comparant les cartes traditionnelles et les pseudo-coupes des données brutes aux informations des modèles 3D et 2D obtenus par inversion.  macos/deepLFree.translatedWithDeepL.text
+Certains avantages de l'application d'une inversion rigoureuse peuvent être constatés en comparant les cartes traditionnelles et les pseudo-coupes des données brutes aux informations des modèles 3D et 2D obtenus par inversion. 
 
 ## Un exemple concret : Westhoek
+
+
 
 ## Un exemple analytique : la sismique réfraction pour la géotechnique
 
