@@ -73,9 +73,19 @@ En raison de l'extrême complexité de la terre, les modèles utiles doivent sou
 Certains avantages de l'application d'une inversion rigoureuse peuvent être constatés en comparant les cartes traditionnelles et les pseudo-coupes des données brutes aux informations des modèles 3D et 2D obtenus par inversion. 
 
 ## Un exemple concret : Westhoek
+### Contexte de l'étude
+Un inlet permet la venue d’eau salée pour permettre la croissance d’une faune et d’une flore rare au sein de la réserve. Cependant, une prise d’eau dans la nappe phréatique est située à proximité. A titre d'information la minéralisation de l'eau de Spa est d'environ 30 mg/L tandis que celle de St-Yorre est de 5000 mg/L.
+### Données géophysiques de forage
 
+### Données géophysiques de surface
 
+### Inversion des données et comparaison avec le forage
+
+### Comment transformer la distribution spatiale de résistivité électrique en un paramètre utile (mg/L)
 
 ## Un exemple analytique : la sismique réfraction pour la géotechnique
+### La géotechnique: un contexte pour la sismique réfraction
 
+### La propogation des ondes mécaniques dans un demi-espace
+### Une solution analytique au problème de sismique réfraction
 ## Conclusions
