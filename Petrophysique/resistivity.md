@@ -1,4 +1,4 @@
 ---
-sort: 2
+sort: 3
 ---
 # Résistivité électrique ou conductivité électrique
